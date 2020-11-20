@@ -7,3 +7,4 @@ for i in lista_1:
         list_3.append(i)
 
 print(list_3)
+print(list_3)
